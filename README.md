@@ -9,6 +9,6 @@ This course tries to remediate this situation by providing topics from these thr
   * Applications error propagation and Newton root finding.
   * Total derivative for thermodynamics.
 * Statistics.
-  * Essentially a fast introductory course, with realistic data.
+  * Essentially a fast introductory course with realistic data.
 * First-order differential equations and systems of first-order differential equations and their connection to kinetics and mechanism.
   * Euler's method, Euler's modified method, and a proper ode-solver.   
